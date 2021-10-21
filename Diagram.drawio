@@ -1,5 +1,5 @@
-<mxfile modified="2021-10-21T17:19:27.457Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="fBgWD1CGGXlf44WGjWfn" version="15.5.8" type="github">
-  <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
+<mxfile modified="2021-10-21T17:26:49.475Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="x5Bzv_sZHuZiEczCJkxg" version="15.5.8" type="github">
+  <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="CloudArchitecture">
     <mxGraphModel dx="1376" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -308,10 +308,10 @@
         <mxCell id="CisA7hT9wbcou-RPDCXV-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="CisA7hT9wbcou-RPDCXV-6" target="CisA7hT9wbcou-RPDCXV-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CisA7hT9wbcou-RPDCXV-6" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;API Brainstorm&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;ol&gt;&lt;li&gt;Cadastro de profissionais&lt;/li&gt;&lt;li&gt;Doação animais&lt;/li&gt;&lt;li&gt;Produtos&lt;/li&gt;&lt;/ol&gt;&lt;br&gt;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="CisA7hT9wbcou-RPDCXV-6" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;API Brainstorm&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;ol&gt;&lt;li&gt;Cadastro de profissionais&lt;/li&gt;&lt;li&gt;Doação animais&lt;/li&gt;&lt;li&gt;Produtos&lt;/li&gt;&lt;li&gt;Freelance&lt;/li&gt;&lt;/ol&gt;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="1100" width="272.5" height="334" as="geometry" />
         </mxCell>
-        <mxCell id="CisA7hT9wbcou-RPDCXV-11" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;Tech&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;ol&gt;&lt;li&gt;Wildcard Cert&lt;/li&gt;&lt;li&gt;Load balancer&lt;/li&gt;&lt;li&gt;HA - Zero downtime&lt;/li&gt;&lt;li&gt;CI/CD&lt;/li&gt;&lt;li&gt;Auto Scale&lt;/li&gt;&lt;li&gt;Alerting Scaling&lt;/li&gt;&lt;li&gt;Chat Bot&lt;/li&gt;&lt;li&gt;Unit Test&lt;/li&gt;&lt;li&gt;Regression Test&amp;nbsp;&lt;/li&gt;&lt;li&gt;Cypress&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="CisA7hT9wbcou-RPDCXV-11" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;Technologies&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;ol&gt;&lt;li&gt;Merge/Pull Request&lt;/li&gt;&lt;li&gt;Wildcard Cert&lt;/li&gt;&lt;li&gt;Load balance&lt;/li&gt;&lt;li&gt;HA - Zero downtime&lt;/li&gt;&lt;li&gt;CI/CD&lt;/li&gt;&lt;li&gt;Auto Scale&lt;/li&gt;&lt;li&gt;Alerting Scaling&lt;/li&gt;&lt;li&gt;*Chat Bot&lt;/li&gt;&lt;li&gt;Unit Test&lt;/li&gt;&lt;li&gt;*Regression Test&amp;nbsp;&lt;/li&gt;&lt;li&gt;*Cypress - UI Test&lt;/li&gt;&lt;li&gt;*Multi cloud&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="163" y="1480" width="272.5" height="334" as="geometry" />
         </mxCell>
       </root>
